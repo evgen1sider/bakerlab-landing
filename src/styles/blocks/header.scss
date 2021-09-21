@@ -1,5 +1,5 @@
 .header {
-  background-image: url(/images/bakery-head.png);
+  background-image: url(/images/bakery-head-min.png);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -16,7 +16,7 @@
 
   @include onDesktop {
     width: 67%;
-    background-image: url(/images/bakery-head-big.png);
+    background-image: url(/images/bakery-head-big-min.png);
   }
 
   &__content {
